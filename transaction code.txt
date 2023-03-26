@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+
+}
+</style>
+<body>
+
+<h2>TRANSACTION DETAILS:</h2>
+
+<table style="width:100%">
+  <tr>
+    <th >ID</th>
+    <th>Name</th>
+    <th>Amount</th>
+     <th>Transaction Id</th>
+     <th>Date</th>
+      <th>Pancard</th>
+ </tr>
+<tr style="height:100px">
+
+</tr>
+	
+   
+</table>
+
+
+</body>
+</html>
+
